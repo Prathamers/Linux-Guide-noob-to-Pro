@@ -67,8 +67,7 @@
 
 **PRO-TIP: HOW TO PRACTICE**
 1. **Install a VM:** Use VirtualBox to experiment without breaking your main OS.
-2. **WSL:** If on Windows, enable **WSL 2** for an instant terminal.
-3. **The Mouse-Less Challenge:** Try to navigate your entire system using only the keyboard.
+2. **The Mouse-Less Challenge:** Try to navigate your entire system using only the keyboard.
 
 ---
 
